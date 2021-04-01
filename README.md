@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @HUALIMUGU
+- 👀 I’m interested in Neural Architecture Search and Multi dataset training.
+- 🌱 I’m currently learning Computer Science in UCAS.
+- 💞️ I’m looking to collaborate on AutoML.
+- 📫 How to reach me hualimugu@gmail.com
