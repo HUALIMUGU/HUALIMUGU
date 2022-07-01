@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @HUALIMUGU
-- 👀 I’m interested in Neural Architecture Search and Multi dataset training.
+- 👋 Hi, I’m @HUALIMUGU/Chengjie Wang
+- 👀 I’m interested in Model Compression of the Computer Vision.
 - 🌱 I’m currently learning Computer Science in UCAS.
-- 💞️ I’m looking to collaborate on AutoML.
-- 📫 How to reach me hualimugu@gmail.com
+- 📫 How to reach me: hualimugu@gmail.com
